@@ -1,0 +1,14 @@
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\bin\Debug\net8.0\PuestoLimonadasColas.exe
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\bin\Debug\net8.0\PuestoLimonadasColas.deps.json
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\bin\Debug\net8.0\PuestoLimonadasColas.runtimeconfig.json
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\bin\Debug\net8.0\PuestoLimonadasColas.dll
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\bin\Debug\net8.0\PuestoLimonadasColas.pdb
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\PuestoLimonadasColas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\PuestoLimonadasColas.AssemblyInfoInputs.cache
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\PuestoLimonadasColas.AssemblyInfo.cs
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\PuestoLimonadasColas.csproj.CoreCompileInputs.cache
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\PuestoLimonadasColas.dll
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\refint\PuestoLimonadasColas.dll
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\PuestoLimonadasColas.pdb
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\PuestoLimonadasColas.genruntimeconfig.cache
+C:\Users\jaest\source\repos\PuestoLimonadasColas\PuestoLimonadasColas\obj\Debug\net8.0\ref\PuestoLimonadasColas.dll
